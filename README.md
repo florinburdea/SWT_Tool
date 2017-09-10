@@ -1,2 +1,2 @@
 # SWT_Tool
-Specific SW Testing Tool
+Core Code Branch -> designed for main and non-specific App code
